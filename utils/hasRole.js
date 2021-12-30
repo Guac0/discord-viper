@@ -7,6 +7,7 @@
 function hasRole(msg,name) {
 
     //return msg.member.roles.some(role => role.name === name);
+    //return msg.member.roles.cache.find(r => r.name === name)
     return true;
 
 }
