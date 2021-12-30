@@ -19,7 +19,7 @@ module.exports = class removeCommand extends global.Commando.Command {
 	}
 
   hasPermission(msg) {
-		if( this.client.isOwner(msg.author) || global.utils.hasRole(msg,global.config.roles.admin) ){
+		if( this.client.isOwner(msg.author) || global.utils.hasRole(msg,global.utils.getEnv("roleAdmin")) ){
 			return true
 		}else{
 			return false
