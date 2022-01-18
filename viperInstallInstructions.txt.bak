@@ -1,0 +1,6 @@
+assumes you already have npm, python, node installed
+"npm install -g windows-build-tools" (might need to manually do the visual studio launcher, add the v140/v141 tools in the individual components view)
+clone repository (might need to install GIT and add to PATH if you want to use command line)
+"npm install" (in repository directory)
+customize .env
+"node index.js" (in repository directory)
