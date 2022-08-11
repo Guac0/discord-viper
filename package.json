@@ -452,7 +452,7 @@
       "resolved": "https://registry.npmjs.org/detect-libc/-/detect-libc-1.0.3.tgz",
       "version": "1.0.3"
     },
-    "discord.js": "^11.5.1",
+    "discord.js": "^12.5.3",
     "discord.js-commando": "^0.10.0",
     "dotenv": "^8.2.0",
     "duplexer3": {
@@ -1326,7 +1326,7 @@
       "resolved": "https://registry.npmjs.org/sql-template-strings/-/sql-template-strings-2.2.2.tgz",
       "version": "2.2.2"
     },
-    "sqlite": "^3.0.3",
+    "sqlite": "^3.0.6",
     "sqlite3": {
       "integrity": "sha512-RvqoKxq+8pDHsJo7aXxsFR18i+dU2Wp5o12qAJOV5LNcDt+fgJsc2QKKg3sIRfXrN9ZjzY1T7SNe/DFVqAXjaw==",
       "requires": {
