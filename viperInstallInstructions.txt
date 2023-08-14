@@ -4,3 +4,4 @@ assumes you already have npm, python, node installed
 "npm install" (in repository directory)
 customize .env
 "node index.js" (in repository directory)
+also need to edit discord commando client.js fetchUser to be user.fetch
